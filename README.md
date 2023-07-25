@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [[https://vikasrajput47.github.io/portFolio/](https://vikasrajput47.github.io/portFolio/)](https://vikas-port-folio.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://vikas-port-folio.netlify.app/)
 
 - 💬 Ask me about **Full Stack Web Development and DSA**
 
